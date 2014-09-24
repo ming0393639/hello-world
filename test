@@ -1,0 +1,2 @@
+git remote add origin git@github.com:your_account/sandbox.git
+git push -u origin master
